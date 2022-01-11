@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @JerryHong008
 - 👀 I’m interested in big data
 - 🌱 I’m currently learning Big data components
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : jiechh@163.com
 
 <!---
